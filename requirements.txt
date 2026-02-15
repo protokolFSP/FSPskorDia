@@ -1,0 +1,7 @@
+srt
+numpy
+scipy
+scikit-learn
+webrtcvad
+soundfile
+speechbrain

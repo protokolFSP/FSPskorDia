@@ -1,0 +1,72 @@
+name: Diarize (first N seconds) + label SRT
+
+on:
+  workflow_dispatch:
+    inputs:
+      audio_path:
+        description: "Repo içindeki audio yolu (örn Sample.m4a)"
+        required: true
+        default: "Sample.m4a"
+      srt_path:
+        description: "Repo içindeki SRT yolu (örn Sample.srt)"
+        required: true
+        default: "Sample.srt"
+      max_seconds:
+        description: "Sadece ilk kaç saniye (20dk=1200)"
+        required: true
+        default: "1200"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fsp-diaria
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install -U pip
+          pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio
+          pip install -r requirements.txt
+
+      - name: Diarize + label (first N seconds)
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python tools/diarize_label_srt.py \
+            --audio "${{ inputs.audio_path }}" \
+            --srt "${{ inputs.srt_path }}" \
+            --out-dir transcripts_labeled \
+            --max-seconds "${{ inputs.max_seconds }}" \
+            --extract-questions
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: diarized
+          path: transcripts_labeled/**
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add transcripts_labeled
+          git commit -m "Add diarized labeled SRT (first ${{ inputs.max_seconds }}s)" || exit 0
+          git pull --rebase
+          git push
