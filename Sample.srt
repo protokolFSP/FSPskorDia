@@ -1,0 +1,1176 @@
+1
+00:00:00,000 --> 00:00:07,280
+Guten Tag, mein Name ist Sumer Afirat. Ich bin auf dieser Station als Assistenerstin tätig und würde gern mit Ihnen das Aufnahmegespräch führen.
+
+2
+00:00:07,280 --> 00:00:08,720
+Sind Sie damit einverstanden?
+
+3
+00:00:08,720 --> 00:00:09,720
+Ja.
+
+4
+00:00:09,720 --> 00:00:14,160
+Wenn Sie Fragen haben oder etwas nicht verstehen, bitte sagen Sie mir Bescheid.
+
+5
+00:00:14,160 --> 00:00:21,680
+Bevor Sie mir über Ihre aktuellen Beschwerden erzählen, würde ich Ihnen gerne ein paar Allgemeinfragen stellen. Wie heißen Sie denn?
+
+6
+00:00:21,680 --> 00:00:25,040
+Ich heiße Manfred Holtkamp.
+
+7
+00:00:25,040 --> 00:00:28,760
+Manfred Holtkamp.
+
+8
+00:00:28,800 --> 00:00:33,240
+Ok. Könnten Sie Ihren Vornamen und Nachnamen langsam und deutlich bestabieren?
+
+9
+00:00:33,240 --> 00:00:55,120
+Ja. Manfred, M-A-N-F-R-E-D, Manfred und Holtkamp, H-O-L-T-K-A-M-P, Holtkamp.
+
+10
+00:00:55,200 --> 00:01:13,520
+Ok. Um sicher zu sein, bestabiere ich noch einmal. Manfred schreibt sich M-A-N-F-R-E-W-M-L-D, Holtkamp schreibt sich H-O-L-T-K-A-M-P.
+
+11
+00:01:13,520 --> 00:01:14,520
+Genau.
+
+12
+00:01:14,520 --> 00:01:19,120
+Ok. Herr Manfred Holtkamp. Spreche ich Ihren Namen richtig aus?
+
+13
+00:01:19,120 --> 00:01:20,120
+Ja.
+
+14
+00:01:20,120 --> 00:01:22,400
+Ok. Wie alt sind Sie, Herr Holtkamp?
+
+15
+00:01:22,400 --> 00:01:24,920
+Ich bin 62 Jahre.
+
+16
+00:01:24,920 --> 00:01:28,040
+62 Jahre alt. Wann genau sind Sie geboren?
+
+17
+00:01:28,040 --> 00:01:33,520
+Am 21. Oktober 1963.
+
+18
+00:01:33,520 --> 00:01:38,120
+Ok. 21.10.1963.
+
+19
+00:01:38,120 --> 00:01:38,720
+Ja.
+
+20
+00:01:38,720 --> 00:01:41,680
+Wie groß sind Sie, Herr Holtkamp?
+
+21
+00:01:41,680 --> 00:01:45,200
+1,76 Meter.
+
+22
+00:01:45,200 --> 00:01:48,920
+1,76 Meter. Wie viel wiegen Sie?
+
+23
+00:01:48,920 --> 00:01:52,560
+90 Kilo.
+
+24
+00:01:52,560 --> 00:01:55,720
+90 Kilo. Ok.
+
+25
+00:01:55,720 --> 00:01:59,800
+Was kann ich für Sie tun? Was führt Sie heute zu uns, Herr Holtkamp?
+
+26
+00:01:59,800 --> 00:02:10,600
+Ja, seit ungefähr drei Stunden geht es mir nicht gut. Mir ist unwohl, mir ist übel, ich habe einmal erbrochen.
+
+27
+00:02:10,600 --> 00:02:18,600
+Ich habe so einen Druckschmerz im Brustkorb und im Oberbauch.
+
+28
+00:02:18,640 --> 00:02:21,640
+Das tut mir leid, dass Sie solche Beschwerden haben.
+
+29
+00:02:21,640 --> 00:02:31,680
+Seit drei Stunden haben Sie Übelkeit und noch einmal erbrochen und Druckschmerzen im Brustkorb und im Oberbauch.
+
+30
+00:02:31,680 --> 00:02:33,160
+Hab ich richtig verstanden?
+
+31
+00:02:33,160 --> 00:02:34,160
+Ja.
+
+32
+00:02:34,160 --> 00:02:42,000
+Ok. Können Sie mir genau zeigen, wo haben Sie diese Brustschmerzen?
+
+33
+00:02:42,000 --> 00:02:46,600
+Ganzem Brustkorb oder hinter dem Brustbein?
+
+34
+00:02:46,600 --> 00:02:51,440
+Ja, es ist schon im Brustkorb, aber hauptsächlich hinter dem Brustbein.
+
+35
+00:02:51,440 --> 00:02:52,880
+Hinter dem Brustbein.
+
+36
+00:02:52,880 --> 00:02:55,880
+Hauptsächlich.
+
+37
+00:02:55,880 --> 00:03:05,120
+Bezüglich Ihrer Oberbauchschmerzen sind die Schmerzen in der Mitte, rechtsseitige oder linksseitige?
+
+38
+00:03:05,120 --> 00:03:12,040
+Mehr in der Mitte, vielleicht ein bisschen links, aber hauptsächlich ist der Schmerz im Brustkorb.
+
+39
+00:03:12,040 --> 00:03:15,480
+Ok.
+
+40
+00:03:15,480 --> 00:03:19,440
+Sind die Schmerzen plötzlich oder langsam aufgetreten?
+
+41
+00:03:19,440 --> 00:03:28,640
+Also schon relativ plötzlich, relativ schnell, innerhalb weniger Minuten.
+
+42
+00:03:28,640 --> 00:03:32,320
+Ok. Gibt es eine bestimmte Auslöse für die Schmerzen?
+
+43
+00:03:32,320 --> 00:03:39,680
+Zum Beispiel haben Sie sich vielleicht verletzt oder haben Sie etwas Besonderes gegessen?
+
+44
+00:03:39,680 --> 00:03:41,960
+Nein, verletzt habe ich mich nicht.
+
+45
+00:03:41,960 --> 00:03:47,640
+Ich habe heute am Vormittag, weil es ja draußen stark geschneit hat,
+
+46
+00:03:47,640 --> 00:03:51,040
+musste ich Schnee räumen.
+
+47
+00:03:51,040 --> 00:03:58,680
+Den Schnee wegräumen vom Bürgersteig, von der Straße, musste ich sauber machen.
+
+48
+00:03:58,680 --> 00:04:00,920
+Das war schon etwas anstrengend.
+
+49
+00:04:00,920 --> 00:04:03,480
+Ja, verstehe.
+
+50
+00:04:03,480 --> 00:04:06,280
+Danach sind die Schmerzen aufgetreten.
+
+51
+00:04:06,280 --> 00:04:08,040
+Ja, ja.
+
+52
+00:04:08,040 --> 00:04:10,960
+Ja, verstehe.
+
+53
+00:04:10,960 --> 00:04:14,920
+Sind die Schmerzen dauerhafter oder gehen Sie wieder weg?
+
+54
+00:04:14,920 --> 00:04:16,040
+Die sind dauerhaft.
+
+55
+00:04:16,040 --> 00:04:18,560
+Dauerhafter, ok.
+
+56
+00:04:18,560 --> 00:04:24,320
+Strahlen die Schmerzen irgendwo hinaus, zum Beispiel in den linken Arm oder in den Hals?
+
+57
+00:04:24,320 --> 00:04:30,160
+Nein, eigentlich mehr wie gesagt hinter dem Brustbein und oben im Bauch.
+
+58
+00:04:30,160 --> 00:04:33,400
+Ja, ok, verstehe ich.
+
+59
+00:04:33,400 --> 00:04:39,360
+Leiden Sie unter auf Luftnot, Herzrasen, Kaltschweiß?
+
+60
+00:04:39,440 --> 00:04:43,880
+Ja, Luftnot so ein bisschen, das spüre ich.
+
+61
+00:04:43,880 --> 00:04:52,120
+Ich traue mich auch gar nicht so richtig tief zu atmen, aber ich muss etwas schneller atmen vielleicht.
+
+62
+00:04:52,120 --> 00:04:58,440
+Ja, ich habe auch mal so einen Schweißausbruch gehabt, vielleicht wegen der Schmerzen, ich weiß es nicht.
+
+63
+00:04:58,440 --> 00:05:00,040
+Ja, ok.
+
+64
+00:05:00,040 --> 00:05:05,760
+Herr Holtkampf, können Sie mir sagen, wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+65
+00:05:05,760 --> 00:05:09,960
+Wobei 1 leichte Schmerzen, 10 sehr starke Schmerzen entspricht?
+
+66
+00:05:09,960 --> 00:05:13,920
+Ja, ich würde sagen schon 6, 6 bis 7.
+
+67
+00:05:13,920 --> 00:05:16,160
+Ah, 6 bis 7, ok.
+
+68
+00:05:16,160 --> 00:05:24,000
+Ja, Herr Holtkampf, ich möchte Sie nicht beunruhigen, aber Sie haben typische Beschwerden einer Herzkrankheit.
+
+69
+00:05:24,000 --> 00:05:34,880
+Deswegen möchte ich zurzeit das Gespräch unterbrechen und ich werde Ihre Vitalparameter überprüfen
+
+70
+00:05:34,880 --> 00:05:40,680
+und einen EKG schreiben und Ihnen etwas Blut abnehmen und das bestätigen.
+
+71
+00:05:40,680 --> 00:05:45,040
+Ja, was heißt Vitalparameter? Was heißt das?
+
+72
+00:05:45,040 --> 00:05:54,440
+Ja, Vitalparameter umfasst Ihre Blutdruck, Ihre Temperatur und Ihre Herzfrequenz, Atemfrequenz.
+
+73
+00:05:54,440 --> 00:05:58,600
+Also, ja ok, ja, das können wir machen. Gut.
+
+74
+00:05:58,600 --> 00:06:04,600
+Ja, wie Sie wissen, jetzt momentan sind wir prüfen, können wir das Gespräch weiterführen?
+
+75
+00:06:04,600 --> 00:06:05,400
+Ja.
+
+76
+00:06:05,400 --> 00:06:12,920
+Ok. Ja, Herr Holtkampf, ist es das erste Mal oder hatten Sie schon früher eine Hesymptome?
+
+77
+00:06:12,920 --> 00:06:21,200
+Also, ich habe in letzter Zeit so bemerkt, dass ich beim Treppensteigen oder wenn ich etwas getragen habe,
+
+78
+00:06:21,200 --> 00:06:29,000
+dass ich da auch schnell mal so etwas Luftnot bekam und dann musste ich eine Pause machen.
+
+79
+00:06:29,000 --> 00:06:35,240
+Und ja, das war so in den letzten Wochen, aber ich habe das nicht so richtig ernst genommen.
+
+80
+00:06:35,240 --> 00:06:37,960
+Ok. Waren Sie deswegen beim Hausarzt?
+
+81
+00:06:37,960 --> 00:06:41,920
+Nein, noch nicht.
+
+82
+00:06:41,920 --> 00:06:47,000
+Haben Sie heute etwas gegen Schmerzen angenommen?
+
+83
+00:06:47,000 --> 00:06:50,360
+Nein, habe ich nicht.
+
+84
+00:06:50,360 --> 00:06:52,920
+Nur meine normalen Medikamente.
+
+85
+00:06:52,920 --> 00:06:58,040
+Normale Medikamente, ok. Welche Medikamente nehmen Sie? Normale?
+
+86
+00:06:58,120 --> 00:07:06,000
+Ja, ich habe ja auch hohen Blutdruck schon seit ungefähr 15 Jahren und ich nehme,
+
+87
+00:07:06,000 --> 00:07:11,680
+ich habe hier einen Zettel, Bisoprolol heißt das Mittel.
+
+88
+00:07:11,680 --> 00:07:22,240
+Und da nehme ich, dahinter steht fünf und da nehme ich zwei Tabletten pro Tag, einmal morgens, einmal abends.
+
+89
+00:07:22,240 --> 00:07:36,080
+Und da nehme ich noch RamiPril, fünf steht da auch hinter, da nehme ich eine Tablette morgens und eine halbe Tablette abends.
+
+90
+00:07:36,080 --> 00:07:44,040
+Und ich nehme noch Furoze mit, davon muss ich häufig dann Wasser lassen, schnell.
+
+91
+00:07:44,040 --> 00:07:51,720
+Furoze mit, dahinter steht zehn, da nehme ich eine Tablette morgens.
+
+92
+00:07:51,760 --> 00:08:04,000
+Und ich nehme noch etwas gegen mein hohes Cholesterin, das heißt Rosufastatin, das steht 20 dahinter, 20.
+
+93
+00:08:04,000 --> 00:08:08,600
+Da nehme ich eine Tablette abends.
+
+94
+00:08:08,600 --> 00:08:11,720
+Vielen Dank.
+
+95
+00:08:11,720 --> 00:08:19,960
+Herr Holkamp, Sie haben auch einmal Erbrüchen. Wie sah das Erbrüchen aus?
+
+96
+00:08:19,960 --> 00:08:26,240
+Ja, das war so ein bisschen noch was vom Frühstück, weil ich ja vorher auch ein bisschen gefrühstückt hatte noch.
+
+97
+00:08:26,240 --> 00:08:32,280
+Das war etwas Brot und etwas Käse.
+
+98
+00:08:32,280 --> 00:08:38,520
+Käse, ja. Ist Ihnen aufgefallen, dass Sie Sodbrennen oder saures Aufstößen haben?
+
+99
+00:08:38,520 --> 00:08:40,680
+Nein, habe ich nicht.
+
+100
+00:08:41,520 --> 00:08:49,160
+Oder haben Sie ein geschwollenes, gerötetes oder überwarmtes Bein bemerkt?
+
+101
+00:08:49,160 --> 00:09:00,640
+Nein, manchmal sind meine Füße abends, die Unterschenkel am Knöchel, sind etwas geschwollen abends.
+
+102
+00:09:00,640 --> 00:09:09,080
+Aber morgens sind sie dann wieder dünner. Ich muss auch nachts zweimal auf Toilette Wasser lassen.
+
+103
+00:09:10,040 --> 00:09:15,880
+Mein Hausarzt sagt, das hängt etwas mit meinem Herzen zusammen.
+
+104
+00:09:15,880 --> 00:09:22,920
+Ok, verstehe ich. Seit wann haben Sie diese Beschwerde? Seit einem Jahr?
+
+105
+00:09:22,920 --> 00:09:31,320
+Ich nehme dieses eine Mittel, das über diese Niere wirkt, Furozimid, das nehme ich jetzt seit ungefähr zwei Jahren.
+
+106
+00:09:31,320 --> 00:09:37,400
+So lange ungefähr habe ich dieses mit den Beinschwellungen. Im Sommer, wenn es warm ist, ist das stärker.
+
+107
+00:09:37,640 --> 00:09:40,680
+Ja, verstehe ich. Das ist sehr unangenehm.
+
+108
+00:09:40,680 --> 00:09:46,520
+Ok, Herr Holtkamp, jetzt werde ich Ihnen ein paar Fragen zu Ihrer allgemeinen Zustand stellen.
+
+109
+00:09:46,520 --> 00:09:48,680
+Haben Sie Fieber?
+
+110
+00:09:48,680 --> 00:09:53,480
+Ich glaube nicht, nein. Habe ich aber nicht gemessen, aber ich glaube nicht vom Gefühl her.
+
+111
+00:09:53,480 --> 00:10:01,320
+Ok. Haben Sie Stüllfrost, Nachschweiß?
+
+112
+00:10:01,400 --> 00:10:07,480
+Stüllfrost habe ich auch nicht, aber ich habe eben, als das mit den Schmerzen anfing, etwas stärker geschwitzt.
+
+113
+00:10:07,480 --> 00:10:13,480
+Ja, ja, ich habe notiert. Wie ist Ihr Appetit?
+
+114
+00:10:13,480 --> 00:10:19,480
+Zu gut. Ich wiege ihr auch zu viel. Ich muss immer aufpassen.
+
+115
+00:10:19,480 --> 00:10:22,600
+Ja, das freut mich, dass Sie bemerkt haben.
+
+116
+00:10:22,600 --> 00:10:27,720
+Ja, aber ich habe es noch nicht so geschafft. Ich muss mich mehr bewegen.
+
+117
+00:10:28,520 --> 00:10:34,280
+Ja, verstehe ich. Ja, das ist nicht einfach, aber das ist sehr gut, dass Sie versuchen.
+
+118
+00:10:34,280 --> 00:10:37,640
+Ja, versuchen. Ich gratuliere.
+
+119
+00:10:37,640 --> 00:10:41,640
+Haben Sie in letzter Zeit Gewicht abgenommen oder so genommen?
+
+120
+00:10:41,640 --> 00:10:44,840
+Nein, ich habe mein Gewicht gehalten.
+
+121
+00:10:44,840 --> 00:10:49,160
+Ok. Schlafen Sie gut?
+
+122
+00:10:49,160 --> 00:10:54,280
+Ja, normalerweise gut, aber manchmal habe ich auch Spätdienst.
+
+123
+00:10:54,280 --> 00:11:00,280
+Ich bin Taxifahrer von Beruf und dann kann ich manchmal nicht so gut danach schlafen.
+
+124
+00:11:00,280 --> 00:11:06,760
+Wenn ich erst so um Mitternacht nach Hause komme, das ist dann manchmal der Schlaf nicht so gut.
+
+125
+00:11:06,760 --> 00:11:12,440
+Ok, wegen Spätschiften, wenn ich mal kommt und ich nicht gut schlafe. Ich verstehe.
+
+126
+00:11:12,440 --> 00:11:17,720
+Ja, Sie haben nächtliche Wasserlassen.
+
+127
+00:11:17,720 --> 00:11:21,960
+Außer nächtliche Wasserlassen, haben Sie Probleme beim Wasserlassen?
+
+128
+00:11:21,960 --> 00:11:23,800
+Nein.
+
+129
+00:11:23,800 --> 00:11:29,640
+Ok. Wie ist es mit dem Stuhlgang? Alles in Ordnung?
+
+130
+00:11:29,640 --> 00:11:33,480
+Stuhlgang ist regelmäßig, jeden Tag. Da habe ich keine Probleme mit.
+
+131
+00:11:33,480 --> 00:11:37,160
+Ah, das ist gut. Das freut mich.
+
+132
+00:11:37,160 --> 00:11:42,920
+Ok. Ich werde jetzt ein paar Fragen zu Ihrer Vorgestellung stellen.
+
+133
+00:11:42,920 --> 00:11:50,760
+Sie leiden an Bluthochdruck seit 15 Jahren und hohes Cholesterin.
+
+134
+00:11:50,760 --> 00:11:52,680
+Seit wann haben Sie hohes Cholesterin?
+
+135
+00:11:52,680 --> 00:11:55,320
+Ja, vielleicht seit fünf Jahren.
+
+136
+00:11:55,320 --> 00:12:03,160
+Seit fünf Jahren. Ok. Gibt es noch andere chronische Erkrankungen bei Ihnen, von denen ich wissen sollte?
+
+137
+00:12:03,160 --> 00:12:06,760
+Nein. Nein, sonst habe ich keine chronischen Erkrankungen.
+
+138
+00:12:06,760 --> 00:12:11,160
+Ok. Herr Holtkamp, messen Sie regelmäßig Ihren Blutdruck?
+
+139
+00:12:11,160 --> 00:12:15,800
+Na, früher mehr. In letzter Zeit nicht mehr so oft.
+
+140
+00:12:15,800 --> 00:12:20,200
+Meine Frau sagt immer, du musst das häufiger kontrollieren.
+
+141
+00:12:20,200 --> 00:12:30,680
+Ja, ich glaube, ich habe zuletzt mal vor drei Wochen gemessen. Da war er so vielleicht 145 zu 90.
+
+142
+00:12:30,680 --> 00:12:33,240
+Ich müsste es häufiger tun.
+
+143
+00:12:33,240 --> 00:12:38,280
+Ja, Sie haben recht. Würden Sie schon einmal operiert?
+
+144
+00:12:38,280 --> 00:12:47,480
+Ja, als Kind wurde ich operiert am Blinddarm. Da war ich so acht, neun Jahre alt, neun.
+
+145
+00:12:47,480 --> 00:13:05,240
+Und dann hatte ich einen Bruch vom linken Schienenbein durch Fußballspielen. Da war ich 25 Jahre alt und da musste das Bein, das musste auch operiert werden.
+
+146
+00:13:05,240 --> 00:13:11,640
+Sind beide Operationen gut verlaufen?
+
+147
+00:13:11,640 --> 00:13:12,600
+Ja, ja.
+
+148
+00:13:12,600 --> 00:13:15,640
+Super. Das freut mich.
+
+149
+00:13:15,720 --> 00:13:24,600
+Ja, Sie nehmen regelmäßig Bisoprolol, Ramipril, Fursamid, Rosovastatin. Gibt es noch andere Medikamente?
+
+150
+00:13:24,600 --> 00:13:26,600
+Nein, sonst nehme ich nichts.
+
+151
+00:13:26,600 --> 00:13:32,120
+Ja, ok. Sind Sie allergisch gegen etwas, Herr Holtkamp? Vielleicht Polen?
+
+152
+00:13:32,120 --> 00:13:39,880
+Ja, ich bin allergisch gegen Nickel. Nickel, das habe ich gemerkt an einem Gürtel, dass da ein Ausschlag kam am Gürtel.
+
+153
+00:13:39,880 --> 00:13:46,280
+Und dann wurde das getestet beim Hautarzt und dann hat er gesagt, das ist eine Nickelallergie.
+
+154
+00:13:46,280 --> 00:13:52,040
+Ok. Vertragen Sie alles, alle Nahrungsmittel mit Glytan?
+
+155
+00:13:52,040 --> 00:13:55,320
+Ja, ja. Da vertrage ich alles.
+
+156
+00:13:55,320 --> 00:13:58,680
+Super. Darf ich fragen, ob Sie rauchen?
+
+157
+00:13:58,680 --> 00:14:07,080
+Ja, ich rauche. Ich rauche schon lange. 45 Jahre rauche ich schon. 20 Zigaretten am Tag, also eine Schachtel.
+
+158
+00:14:08,040 --> 00:14:11,720
+Das ist so viel, ja?
+
+159
+00:14:11,720 --> 00:14:17,240
+Ja, das sagen alle. Das sagt meine Frau, das sagen meine Kinder, das sagt der Arzt.
+
+160
+00:14:17,240 --> 00:14:23,560
+Aber Beruf als Taxifahrer ist immer viel Stress und die Kollegen rauchen auch alle.
+
+161
+00:14:23,560 --> 00:14:25,560
+Ja, das ist schwierig.
+
+162
+00:14:25,560 --> 00:14:33,480
+Ja, das ist sehr schwierig. Aber wenn Sie möchten, kann ich Ihnen gerne einen Spezialisten empfehlen, um Unterstützung zu behalten.
+
+163
+00:14:33,960 --> 00:14:36,200
+Können wir dann später darüber sprechen, ja.
+
+164
+00:14:36,200 --> 00:14:39,720
+Ja, ok. Trinken Sie Alkohol?
+
+165
+00:14:39,720 --> 00:14:46,040
+Ja, aber unregelmäßig, weil ich muss ja auch, beim Taxifahren trinke ich keinen Alkohol natürlich.
+
+166
+00:14:46,040 --> 00:14:52,040
+Ich trinke mal abends vielleicht eine kleine Flasche Bier, aber das ist nicht jeden Abend.
+
+167
+00:14:52,040 --> 00:15:00,600
+Ok. Nur Bier, nicht jeden Abend. Wie viel Mal trinken Sie ungefähr?
+
+168
+00:15:00,600 --> 00:15:04,760
+Eine kleine Flasche. Ja, vielleicht viermal die Woche, viermal pro Woche.
+
+169
+00:15:04,760 --> 00:15:07,720
+Viermal pro Woche.
+
+170
+00:15:07,720 --> 00:15:12,840
+Bitte nehmen Sie mir die nächste Frage nicht, das ist eine Routinefrage. Nehmen Sie irgendwann Drogen?
+
+171
+00:15:12,840 --> 00:15:14,040
+Nein.
+
+172
+00:15:14,040 --> 00:15:22,200
+Keine? Ok. Sind Ihre Eltern gesund oder gibt es chronische Erkrankungen bei Ihren Eltern, Herr Holtkamp?
+
+173
+00:15:22,200 --> 00:15:28,440
+Also der Vater ist verstorben, da war er 74 Jahre alt, an einem Herzinfarkt.
+
+174
+00:15:28,520 --> 00:15:30,520
+Das tut mir leid.
+
+175
+00:15:30,520 --> 00:15:37,080
+Und die Mutter ist im Alter von 70 Jahren verstorben, die hatte Blutkrebs.
+
+176
+00:15:37,080 --> 00:15:40,200
+Das tut mir leid, wirklich.
+
+177
+00:15:40,200 --> 00:15:44,440
+Haben Sie Geschwister?
+
+178
+00:15:44,440 --> 00:15:50,040
+Ja, ich habe noch einen Bruder, der ist zwei Jahre älter als ich.
+
+179
+00:15:50,040 --> 00:15:56,840
+Der hatte auch hohen Blutdruck und hatte vor zwei Jahren eine Operation am Herzen.
+
+180
+00:15:57,240 --> 00:16:01,240
+Da wurden ihm, wie nennt sich das, Bypass gelegt.
+
+181
+00:16:01,240 --> 00:16:06,440
+Ok. Bypassoperationen des Herzes.
+
+182
+00:16:06,440 --> 00:16:08,440
+Verstehe ich.
+
+183
+00:16:08,440 --> 00:16:13,880
+Treiben Sie Sport, Herr Holtkamp?
+
+184
+00:16:13,880 --> 00:16:20,680
+Früher. Früher habe ich Sport gemacht, ja Fußball gespielt, deswegen damals auch die Verletzung, Beinbruch.
+
+185
+00:16:20,680 --> 00:16:26,520
+Aber jetzt bestimmt seit 20 Jahren mache ich gar nichts mehr, kein Sport.
+
+186
+00:16:26,600 --> 00:16:28,600
+Ja, verstehe.
+
+187
+00:16:28,600 --> 00:16:31,800
+Und dann ist das Körpergewicht hochgegangen.
+
+188
+00:16:31,800 --> 00:16:33,800
+Ja, ja, verstehe.
+
+189
+00:16:33,800 --> 00:16:38,280
+Leben Sie mit Ihrer Frau, ja?
+
+190
+00:16:38,280 --> 00:16:46,360
+Ja, wir wohnen zusammen, wir haben zwei Kinder, die sind aber schon beide über 30 Jahre alt, die leben aber nicht mehr bei uns.
+
+191
+00:16:46,360 --> 00:16:49,960
+Sind Ihre Kinder gesund?
+
+192
+00:16:49,960 --> 00:16:51,960
+Ja.
+
+193
+00:16:52,920 --> 00:16:58,360
+Ja, Sie haben viel Stress bei der Arbeit, aber haben Sie Stress im Privatleben auch?
+
+194
+00:16:58,360 --> 00:17:00,360
+Nein, nein.
+
+195
+00:17:00,360 --> 00:17:02,360
+Die Arbeit ist der Stress.
+
+196
+00:17:02,360 --> 00:17:04,360
+Ja.
+
+197
+00:17:04,360 --> 00:17:06,360
+Ok.
+
+198
+00:17:06,360 --> 00:17:13,560
+Herr Holtkamp, ich habe alle wichtigen Fragen gestellt.
+
+199
+00:17:13,560 --> 00:17:19,400
+Haben Sie noch, möchten Sie etwas hinzufügen oder haben Sie noch Fragen an mich?
+
+200
+00:17:19,880 --> 00:17:24,360
+Ja, ich möchte, dass bald meine Beschwerden besser werden, dass es mir wieder besser geht.
+
+201
+00:17:24,360 --> 00:17:26,360
+Das ist mein Wunsch.
+
+202
+00:17:26,360 --> 00:17:28,360
+Ja, natürlich.
+
+203
+00:17:28,360 --> 00:17:30,360
+Und ja.
+
+204
+00:17:30,360 --> 00:17:36,680
+Herr Holtkamp, jetzt, ich werde Ihnen eine körperliche Untersuchung machen.
+
+205
+00:17:36,680 --> 00:17:43,720
+Wir haben schon Ihre Vitalparameter überprüft und einen EKG geschrieben und etwas Blut abnehmen.
+
+206
+00:17:43,800 --> 00:17:49,720
+Aber ich werde auf eine Herz-Ultraschall und Bach-Ultraschall durchführen.
+
+207
+00:17:49,720 --> 00:17:54,440
+Natürlich werde ich Ihre EKG erneut machen.
+
+208
+00:17:54,440 --> 00:18:02,520
+Sobald Ihre Befunden vorliegen, bespreche ich Ihre Situation mit meinem Oberarzt, dann komme ich zu Ihnen, erkläre Ihnen alles Schritt für Schritt.
+
+209
+00:18:02,520 --> 00:18:04,520
+Haben Sie noch Fragen an mich?
+
+210
+00:18:04,520 --> 00:18:06,520
+Ok, ok, das können wir so machen.
+
+211
+00:18:06,520 --> 00:18:08,520
+Gut, danke.
+
+212
+00:18:08,520 --> 00:18:10,520
+Alles klar, danke.
+
+213
+00:18:11,320 --> 00:18:20,360
+Also, Sie haben jetzt ein bisschen Zeit, denken Sie dran, die Übersetzung der Patientensprache in die Fachbegriffe, wenn das geht.
+
+214
+00:18:20,360 --> 00:18:28,600
+Kollegen und Kolleginnen, heute sind wir ja auch relativ viele, haben vielleicht noch Fragen oder Ergänzungen.
+
+215
+00:18:28,600 --> 00:18:38,520
+Es ist schon sehr viel gefragt worden und auch sehr verständnisverständlich, gute Verständigung, das war alles gut.
+
+216
+00:18:38,520 --> 00:18:42,520
+Gibt es noch Ergänzungen?
+
+217
+00:18:50,520 --> 00:18:52,520
+Die Kollegen sind mit Ihnen zufrieden.
+
+218
+00:18:56,520 --> 00:18:58,520
+Darf man eine Frage stellen?
+
+219
+00:18:58,520 --> 00:19:00,520
+Bitte.
+
+220
+00:19:00,520 --> 00:19:04,520
+Wann war Ihr letztes Kardiologieuntersuchung?
+
+221
+00:19:04,520 --> 00:19:08,520
+Beim Kardiologen bin ich noch nie gewesen.
+
+222
+00:19:08,520 --> 00:19:10,520
+Ihr Hausarzt?
+
+223
+00:19:10,520 --> 00:19:20,520
+Ich gehe zum Hausarzt, da gehe ich einmal im Jahr hin, der misst dann auch das Blut, Cholesterinspiegel und macht auch ein EKG.
+
+224
+00:19:20,520 --> 00:19:26,520
+Und macht auch eine, muss ich so in den Apparat pusten, Lungenfunktion.
+
+225
+00:19:26,520 --> 00:19:36,520
+Und der Hausarzt sagt eben, ja, der Blutdruck ist nicht so ganz optimal eingestellt und das Körpergewicht müsste eigentlich runter.
+
+226
+00:19:36,520 --> 00:19:44,520
+Und natürlich auch das Rauchen ist ein Problem, aber es ist alles für mich schwierig, das zu verändern.
+
+227
+00:19:44,520 --> 00:19:48,520
+Ich verstehe, danke schön.
+
+228
+00:19:56,520 --> 00:20:06,520
+Gut, wenn jetzt im Augenblick keine Fragen sind, dann lasse ich die Kollegin jetzt etwas in Ruhe, dass sie sich etwas vorbereiten können.
+
+229
+00:20:06,520 --> 00:20:12,520
+Und ich sage mal so, in fünf Minuten komme ich wieder und dann besprechen wir den Fall.
+
+230
+00:20:12,520 --> 00:20:14,520
+Ist das in Ordnung?
+
+231
+00:20:14,520 --> 00:20:16,520
+Ja, das ist in Ordnung für mich.
+
+232
+00:20:16,520 --> 00:20:18,520
+Gut, bis gleich.
+
+233
+00:20:26,520 --> 00:20:34,520
+Okay.
+
+234
+00:20:34,520 --> 00:20:40,520
+Guten Tag, mein Name ist Sumera Firat, heute habe ich einen neuen Patienten aufgenommen, darf ich vorstellen?
+
+235
+00:20:40,520 --> 00:20:42,520
+Ja, bitte.
+
+236
+00:20:42,520 --> 00:20:54,520
+Es geht um Herrn Manfred Holkamp, er ist 62 Jahre alt und am 21.10.1963 geboren.
+
+237
+00:20:54,520 --> 00:21:00,520
+Er ist 1,76 Meter groß und wiegt 90 Kilogramm.
+
+238
+00:21:00,520 --> 00:21:14,520
+Er stellt sich bei uns wegen seit drei Stunden bestehender retro-sternaler Thorakalgie und epigastrische abdominal Schmerzen vor.
+
+239
+00:21:14,520 --> 00:21:22,520
+Laut Aussagen des Patienten sind die Schmerzen plötzlich nach der Belastung aufgetreten.
+
+240
+00:21:22,520 --> 00:21:30,520
+Er berichtet, dass die Schmerzen drückend persistierend sind.
+
+241
+00:21:30,520 --> 00:21:42,520
+Die Schmerzintensität liegt bei 6 von 10 auf der Schmerzskala und die Schmerzen strahlen nicht aus.
+
+242
+00:21:42,520 --> 00:22:00,520
+Begleitet klagt er über Dyspne, Tachypne, Hyperhydrose, Noisia, einmalige Vomitus, das mit Essen reste war.
+
+243
+00:22:00,520 --> 00:22:14,520
+Wegetätig anamnestisch ergab sich Nikturi wegen Schichterarbeit, mannichmal Dyspne.
+
+244
+00:22:14,520 --> 00:22:28,520
+Bei der Foliekrankenanamnese erwähnte er Arterielehypertonie seit fünf Jahren und Hyperkolestrinämie seit fünf Jahren.
+
+245
+00:22:28,520 --> 00:22:46,520
+Die Schmerzen standen nach Appendektomie mit neunten Lebensjahren und linke Tibia-Fraktur mit 25 letzten Lebensjahren.
+
+246
+00:22:46,520 --> 00:23:01,520
+Bei der Medikamentenanamnese ergab sich die Einnahme von Bisoprolol 5 mg, einmal morgens, einmal abends, Ramipril 5 mg, einmal morgens, ein und halb abends,
+
+247
+00:23:01,520 --> 00:23:09,520
+Frühe mit 10 mg, einmal morgens, Rosovastatin 20 mg, einmal abends.
+
+248
+00:23:09,520 --> 00:23:19,520
+Die Allergenanamnese ergab Allergie gegen Nickel, die sich exxantem äußert.
+
+249
+00:23:19,520 --> 00:23:35,520
+Bei der Noxanamnese erwähnte er ca. 25 Packages und eine kleine Flasche Bia viermal pro Woche.
+
+250
+00:23:35,520 --> 00:23:47,520
+Drogenkonsum würden verneint. Die Familienanamnese ergab Myokartinfarkt beim Vater, daran mit vierundsiebsten Lebensjahren gestorben.
+
+251
+00:23:47,520 --> 00:24:00,520
+Verdacht auf Leukämie bei der Mutter, daran mit siebzehnten Lebensjahren gestorben.
+
+252
+00:24:00,520 --> 00:24:08,520
+Siebzehn, siebzig.
+
+253
+00:24:08,520 --> 00:24:30,520
+Und Arteriellehypertonin beim Bruder. Sein Bruder wurde vor zwei Jahren eine Coroner bei Pass...
+
+254
+00:24:30,520 --> 00:24:39,520
+Nein, bei seinem Bruder wurde vor zwei Jahren eine Coroner bei Passopie durchgeführt.
+
+255
+00:24:39,520 --> 00:25:01,520
+Sozialanamnistisch ist er Taxifahrer vom Beruf. Er ist verheiratet, lebt mit seiner Frau, hat zwei Kinder.
+
+256
+00:25:01,520 --> 00:25:11,520
+Er hat viel Stress bei der Arbeit. Leider treibt er keinen Sport.
+
+257
+00:25:11,520 --> 00:25:16,520
+Die Anamnistisch, oder?
+
+258
+00:25:16,520 --> 00:25:25,520
+Haben Sie bei dieser Beschwerdesymptomatik die Vitalparameter kontrolliert am Anfang?
+
+259
+00:25:25,520 --> 00:25:37,520
+Ja, am Anfang habe ich die Vitalparameter überprüft, ein EKG geschrieben und etwas Blut abgenommen.
+
+260
+00:25:37,520 --> 00:25:45,520
+Okay, gut, prima. Die Werte waren soweit in Ordnung, die Vitalparameter? Blutlob?
+
+261
+00:25:45,520 --> 00:25:54,520
+Ja, die Vitalparameter und EKG sind alle in Ordnung. Dann habe ich das Gespräch weiter gemacht.
+
+262
+00:25:54,520 --> 00:26:06,520
+Okay, sehr gut. Eine kurze Frage. Der Patient nimmt auch ein Diuretikum, Phurosemit. Hat er auch Ödeme?
+
+263
+00:26:06,520 --> 00:26:16,520
+Ja, er hat besonders am Abend geschwollene Beine.
+
+264
+00:26:16,520 --> 00:26:21,520
+Sagen Sie ruhig Unterschenkelödeme oder Knöchelödeme?
+
+265
+00:26:21,520 --> 00:26:33,520
+Unterschenkel und Knöchelödeme. Deswegen war er beim Hausarzt. Und der Hausarzt hat ihm ein Phurosemit verschenkt.
+
+266
+00:26:33,520 --> 00:26:38,520
+Okay, gut. Und er hat, glaube ich, zweimalige Nükturie, haben Sie gesagt?
+
+267
+00:26:38,520 --> 00:26:40,520
+Ja, zweimalige Nükturie.
+
+268
+00:26:40,520 --> 00:26:43,520
+Gut, prima. Was ist Ihre Verdachtsdiagnose?
+
+269
+00:26:43,520 --> 00:26:52,520
+Ja, die Anamnistischen Angaben deuten am ersten auf Akutkoronarsyndrom hin.
+
+270
+00:26:52,520 --> 00:27:05,520
+Ja, Retro-Syndrom mit Brustschmerzen, Obabachschmerzen, auch Dispnö, Takipnö, Hyperhydrose, Neuseasprache dafür.
+
+271
+00:27:06,520 --> 00:27:19,520
+Differenzialdiagnostik kommen, Lungenarterie, Arterialembolie, Artdisexion oder Gastroesophagell-Reflexkrankheit im Betracht.
+
+272
+00:27:19,520 --> 00:27:24,520
+Okay, gut, prima. Ja, bin ich mit einverstanden. Sehr schön, haben Sie es sehr gut gemacht.
+
+273
+00:27:24,520 --> 00:27:39,520
+Gut, ich habe Sie gut verstanden. Sie haben das sehr gut strukturiert und haben auch die Fachbegriffe, denke ich, sehr gut gewusst und eingebunden in die Vorstellung.
+
+274
+00:27:39,520 --> 00:27:47,520
+Wichtig war, dass Sie im Anfang bei dieser Beschwerdesymptomatik die Vitalparameter erst kontrolliert haben, unterbrochen haben.
+
+275
+00:27:48,520 --> 00:27:56,520
+Das ist sehr wichtig und ist auch in einer Prüfung sicherlich dann sehr wichtig, dass Sie das tun, wenn so etwas ist.
+
+276
+00:27:56,520 --> 00:28:01,520
+Lieber einmal mehr machen als zu wenig, sage ich.
+
+277
+00:28:01,520 --> 00:28:11,520
+Lieber bei bestimmten Dingen, wo Sie nicht sicher sind, sagen Sie, ich messe jetzt erstmal Ihren Blutdruck und messe vielleicht Ihren Sauerstoffgehalt im Blut und mache eine EKG.
+
+278
+00:28:11,520 --> 00:28:18,520
+Dann fühle ich mich sicherer und kann mir schon einen besseren Eindruck verschaffen.
+
+279
+00:28:18,520 --> 00:28:27,520
+Das beruhigt den Patienten und ist auch für Sie selber, denke ich, von Wichtigkeit und es ist auch gut vor der Prüfungskommission.
+
+280
+00:28:28,520 --> 00:28:38,520
+Sie haben das sehr gut auch verständlich von der Sprache her, denke ich, sehr gut gemacht und gut der Verdacht auf akutes Coronasyndrom.
+
+281
+00:28:38,520 --> 00:28:46,520
+Der ist sicherlich natürlich naheliegend, aber trotzdem gibt es bestehende Verdachtsdiagnosen natürlich oder Differenzialdiagnosen.
+
+282
+00:28:46,520 --> 00:28:53,520
+Die haben Sie aber gut gesagt. Ja, ein Kollege hat, glaube ich, noch geschrieben Herzinsuffizienz.
+
+283
+00:28:53,520 --> 00:29:01,520
+Vielleicht hat der Patient auch inzwischen natürlich eine wahrscheinlich durch die Hypertonie bedingte Herzinsuffizienz.
+
+284
+00:29:01,520 --> 00:29:11,520
+Er hat auch viele Risikofaktoren, natürlich durch den Nikotinab-Usus, den langjährigen und sehr stressigen Beruf.
+
+285
+00:29:11,520 --> 00:29:16,520
+Er hat eine positive Familienanamnese durch den Vater, durch den Bruder.
+
+286
+00:29:16,520 --> 00:29:20,520
+Das sind alles Faktoren, die an sowas auch denken lassen.
+
+287
+00:29:20,520 --> 00:29:24,520
+Gut, prima, vielen Dank. Wann machen Sie Ihre Prüfung?
+
+288
+00:29:24,520 --> 00:29:26,520
+Nächsten Montag.
+
+289
+00:29:26,520 --> 00:29:31,520
+Ja, also das werden Sie super schaffen. Wo machen Sie die?
+
+290
+00:29:31,520 --> 00:29:33,520
+In Düsseldorf.
+
+291
+00:29:33,520 --> 00:29:40,520
+In Düsseldorf, ja schön. Ja gut, hat mir viel Spaß gemacht und danke auch für die Kollegen.
+
+292
+00:29:40,520 --> 00:29:48,520
+Aber Sie haben gemerkt, die Kollegen haben wenig Fragen gestellt, weil Sie vorher alles schon gefragt haben.
+
+293
+00:29:48,520 --> 00:29:51,520
+Es wurden wenig Fragen gestellt.
+
+294
+00:29:51,520 --> 00:29:58,520
+Gut, danke und ich würde sagen, ich wünsche Ihnen allen einen schönen Abend noch und Ihnen eine gute Prüfung.
+
