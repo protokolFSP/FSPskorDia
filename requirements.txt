@@ -5,5 +5,4 @@ scikit-learn
 webrtcvad
 soundfile
 speechbrain
-torch
-torchaudio
+pyannote.audio
