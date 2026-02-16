@@ -1,22 +1,23 @@
+# file: .github/workflows/diarize_first20_sb.yml
 name: Diarize (token-free) first N seconds + label SRT
 
 on:
   workflow_dispatch:
     inputs:
       audio_path:
-        description: "Repo içindeki audio yolu (örn Sample.m4a)"
+        description: "Repo içindeki audio yolu (örn: Sample.m4a)"
         required: true
         default: "Sample.m4a"
       srt_path:
-        description: "Repo içindeki SRT yolu (örn Sample.srt)"
+        description: "Repo içindeki SRT yolu (örn: Sample.srt)"
         required: true
         default: "Sample.srt"
       max_seconds:
-        description: "Sadece ilk kaç saniye (20dk=1200)"
+        description: "Kaç saniye işlenecek (örn: 1200 = 20dk)"
         required: true
         default: "1200"
       num_speakers:
-        description: "Konuşmacı sayısı (çoğu kayıt 2)"
+        description: "Konuşmacı sayısı (genelde 2)"
         required: true
         default: "2"
 
@@ -24,7 +25,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fsp-diarize-sb
+  group: diarize-sb
   cancel-in-progress: false
 
 jobs:
@@ -46,15 +47,15 @@ jobs:
       - name: Install torch CPU + deps
         run: |
           python -m pip install -U pip
-          pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio
-          pip install -r requirements.txt
+          python -m pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio
+          python -m pip install -r requirements.txt
 
       - name: Diarize + label (first N seconds)
         run: |
           python tools/diarize_label_srt_sb.py \
             --audio "${{ inputs.audio_path }}" \
             --srt "${{ inputs.srt_path }}" \
-            --out-dir transcripts_labeled \
+            --out-dir "transcripts_labeled" \
             --max-seconds "${{ inputs.max_seconds }}" \
             --num-speakers "${{ inputs.num_speakers }}" \
             --extract-questions
@@ -65,11 +66,11 @@ jobs:
           name: diarized
           path: transcripts_labeled/**
 
-      - name: Commit & push
+      - name: Commit & push outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add transcripts_labeled
-          git commit -m "Add diarized labeled SRT (token-free)" || exit 0
+          git commit -m "Add diarized transcripts (SB, first ${{ inputs.max_seconds }}s)" || exit 0
           git pull --rebase
           git push
